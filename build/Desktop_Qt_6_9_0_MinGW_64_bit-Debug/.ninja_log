@@ -1,0 +1,24 @@
+# ninja log v6
+45	116	7688518636582347	D:/LINUX/QT/SmartThermo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/SmartThermo_autogen/EWIEGA46WW/qrc_qml.cpp	a8797bdf55a0f757
+45	116	7688518636582347	SmartThermo_autogen/EWIEGA46WW/qrc_qml.cpp	a8797bdf55a0f757
+30	59	7687958632830461	CMakeFiles/clean.additional	baedbe210acaa455
+32	182	7687958774506522	.qt/qml_imports/SmartThermo_build.cmake	b960073d40f176d5
+32	182	7687958774506522	D:/LINUX/QT/SmartThermo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/SmartThermo_build.cmake	b960073d40f176d5
+49	223	7687994688324995	SmartThermo_autogen/timestamp	54a10207b8b93c43
+49	223	7687994688324995	SmartThermo_autogen/mocs_compilation.cpp	54a10207b8b93c43
+49	223	7687994688324995	D:/LINUX/QT/SmartThermo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/SmartThermo_autogen/timestamp	54a10207b8b93c43
+49	223	7687994688324995	D:/LINUX/QT/SmartThermo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/SmartThermo_autogen/mocs_compilation.cpp	54a10207b8b93c43
+710	2846	7687981265559077	CMakeFiles/SmartThermo.dir/SmartThermo_autogen/mocs_compilation.cpp.obj	8ef40372260b21b4
+116	209	7688518636700584	CMakeFiles/SmartThermo.dir/SmartThermo_autogen/EWIEGA46WW/qrc_qml.cpp.obj	4ccd93be6fb50593
+713	3426	7687981265593630	CMakeFiles/SmartThermo.dir/main.cpp.obj	e4cefb429f957929
+209	415	7688518637626282	SmartThermo.exe	987e00da317f2bfb
+716	2661	7687981265618474	CMakeFiles/SmartThermo.dir/controller/systemcontroller.cpp.obj	255569d9d39cbdfa
+59	81	7687958633215399	clean	577b940aee94fbd7
+58	258	7688522464428682	SmartThermo_autogen/timestamp	54a10207b8b93c43
+58	258	7688522464428682	SmartThermo_autogen/mocs_compilation.cpp	54a10207b8b93c43
+58	258	7688522464428682	D:/LINUX/QT/SmartThermo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/SmartThermo_autogen/timestamp	54a10207b8b93c43
+58	258	7688522464428682	D:/LINUX/QT/SmartThermo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/SmartThermo_autogen/mocs_compilation.cpp	54a10207b8b93c43
+258	322	7688522466962101	SmartThermo_autogen/EWIEGA46WW/qrc_qml.cpp	a8797bdf55a0f757
+258	322	7688522466962101	D:/LINUX/QT/SmartThermo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/SmartThermo_autogen/EWIEGA46WW/qrc_qml.cpp	a8797bdf55a0f757
+322	414	7688522467068213	CMakeFiles/SmartThermo.dir/SmartThermo_autogen/EWIEGA46WW/qrc_qml.cpp.obj	4ccd93be6fb50593
+414	631	7688522467988782	SmartThermo.exe	987e00da317f2bfb

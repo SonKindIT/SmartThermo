@@ -1,0 +1,9 @@
+-rootPath
+D:/LINUX/QT/SmartThermo
+-cmake-output
+-output-file
+D:/LINUX/QT/SmartThermo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/SmartThermo_conf.cmake
+-importPath
+D:/LINUX/QT/SmartThermo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.9.0/mingw_64/qml

@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ui/Assest/auto.png</file>
+        <file>ui/Assest/calendar.png</file>
+        <file>ui/Assest/flame.png</file>
+        <file>ui/Assest/ice-crystal.png</file>
+        <file>ui/Assest/info-button.png</file>
+        <file>ui/Assest/previous.png</file>
+        <file>ui/Assest/settings.png</file>
+        <file>ui/Assest/thermometer.png</file>
+        <file>ui/Assest/wifi.png</file>
+        <file>ui/HomeScreen/HomeScreen.qml</file>
+        <file>ui/HomeScreen/SelectionDialog.qml</file>
+        <file>ui/SettingScreen/SettingScreen.qml</file>
+    </qresource>
+</RCC>

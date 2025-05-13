@@ -1,0 +1,10 @@
+D:/LINUX/QT/SmartThermo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/SmartThermo.dir
+D:/LINUX/QT/SmartThermo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/SmartThermo_qmlimportscan.dir
+D:/LINUX/QT/SmartThermo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/LINUX/QT/SmartThermo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/LINUX/QT/SmartThermo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/LINUX/QT/SmartThermo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/LINUX/QT/SmartThermo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/LINUX/QT/SmartThermo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/LINUX/QT/SmartThermo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/SmartThermo_autogen_timestamp_deps.dir
+D:/LINUX/QT/SmartThermo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/SmartThermo_autogen.dir
